@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:music_disc_blocks"
+      },
+      {
+        "item": "minecraft:music_disc_mall"
+      },
+      {
+        "item": "minecraft:lapis_lazuli"
+      },
+      {
+        "item": "minecraft:brown_glazed_terracotta"
+      }
+    ],
+    "result": {
+      "item": "minecraft:music_disc_stal"
+    }
+  }

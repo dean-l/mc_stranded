@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "stranded:gold_wire"
+            }
+        }
+    },
+    "rewards": {
+        "function": "stranded:crafted_gold_wire"
+    }
+}

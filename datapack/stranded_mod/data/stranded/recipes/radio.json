@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  N",
+    "SRT",
+    "MBB"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:music_disc_ward"
+    },
+    "S": {
+      "item": "minecraft:music_disc_11"
+    },
+    "R": {
+      "item": "minecraft:music_disc_stal"
+    },
+    "M": {
+      "item": "minecraft:music_disc_wait"
+    },
+    "B": {
+      "item": "minecraft:music_disc_strad"
+    },
+    "T": {
+      "item": "minecraft:music_disc_mellohi"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_pigstep"
+  }
+}
